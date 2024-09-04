@@ -1,6 +1,6 @@
 ## TODO
  - [x] *2023-10-20* Naive single-pass ASR
- - [ ] [Speaker segmentation via tinydiarize](https://github.com/ggerganov/whisper.cpp/tree/3998465#speaker-segmentation-via-tinydiarize-experimental) or an alternative
+ - [x] *2024-09-04* Episode update
  - [ ] Simple script to reformat into sentences to check for errors.
 
 ## Details
